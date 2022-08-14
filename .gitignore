@@ -127,3 +127,19 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# MAP data files 
+
+SHR76_20.csv.zip
+.SHR76_20.csv.zip
+UCR65_20.zip
+.UCR65_20.zip
+
+unzipped/UCR65_20.csv
+.unzipped/UCR65_20.csv
+./unzipped/UCR65_20.csv
+
+./unzipped/SHR76_20.csv
+unzipped/SHR76_20.csv
+.unzipped/SHR76_20.csv
